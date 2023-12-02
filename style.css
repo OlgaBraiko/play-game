@@ -1,0 +1,15 @@
+.parent {
+  width: 100%;
+  text-align: center;
+}
+p {
+  color: #d91717;
+
+  font-size: 40px;
+}
+canvas {
+  position: inline;
+}
+body {
+  height: 100%;
+}
